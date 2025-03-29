@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bl0f3lt.
-- 👀 I am 18y/o hobby dev from the UK.
-- 🌱 My primary language is Python, however i am learning how to code in c#.
+- 👀 I am 18y/o engineering degree apprentice from the UK.
+- 🌱 I have good knowledge in python, c and some c# and will be learning c++ in the next year.
 - I like to encorporate electronics into my projects, as i find it a nice challenge.
 - Contact @driedaverage on discord
 <!---
